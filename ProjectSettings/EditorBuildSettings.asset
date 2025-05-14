@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Menus/MainMenu.unity
+    guid: c4cd19872fb742b41b78071c7510d63e
+  - enabled: 1
+    path: Assets/Scenes/CardBattle/GamePlay.unity
+    guid: 0870cb8541fc4c24d8518f098915e920
+  - enabled: 1
+    path: Assets/Scenes/Menus/GameOver.unity
+    guid: a36c98b28c5592043b277e846e4e2c12
+  - enabled: 1
+    path: Assets/Scenes/Text Adventure/TextScene.unity
+    guid: 8fe958fc1ce1d7348ab3b17c28be745a
+  - enabled: 1
+    path: Assets/Scenes/Menus/GameEnd.unity
+    guid: 3cbc600000f1a4043bdd6b8df984ff79
+  - enabled: 1
+    path: Assets/Scenes/Menus/Credits.unity
+    guid: e06ce2f42b3f34341826ff3a8ba57e75
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
